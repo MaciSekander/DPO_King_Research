@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Datasets (regenerate with 01_data_cleaning_snoozer.ipynb)
+data/
+
+# Jupyter / OS
+.ipynb_checkpoints/
+.DS_Store
