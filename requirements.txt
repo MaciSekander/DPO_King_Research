@@ -1,0 +1,9 @@
+vllm
+datasets
+transformers
+trl
+wandb
+pandas
+numpy
+ipykernel
+math-verify[antlr4_13_2]
